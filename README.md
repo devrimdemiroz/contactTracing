@@ -36,14 +36,14 @@ I hope it helps others…
 - https://www.covid-watch.org/collaborate.html
 - Notihng developed so far, in organization/establishment phase
 
-##Italy 
+## Italy 
 ### `diAry`
 
 - https://covid19app.uniurb.it/
 - **Opensource**: Announced to be opensource by April'20
 - Additional feature worth to mention is reward system
 
-##Germany 
+## Germany 
 ### `geoHealthApp`
 - https://www.geohealthapp.de/
 - **Opensource**: NO
