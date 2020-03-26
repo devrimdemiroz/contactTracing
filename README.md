@@ -75,20 +75,5 @@ I hope it helps others…
 ## Korea
 ### `Corona 100m (Co100)` 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Çin: 
+## Taiwan
+### 
