@@ -24,6 +24,7 @@ I hope it helps others…
 
 ## USA
 ### `safepaths`
+
 - http://safepaths.mit.edu/ 
 - **Opensource**: https://github.com/tripleblindmarket/
 - Based on Private Kit by MIT, core code is ready but still in early stages
