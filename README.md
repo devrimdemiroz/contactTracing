@@ -90,7 +90,7 @@ Scroll down for details
 - https://coronapp.tech/
 - **Opensource**: NO
 
-### `coronawarner`
+### `corowarner`
 - https://www.linkedin.com/posts/geodotech_corowarner-hackcorona-coronathontaesrkiye-activity-6648915397267476480-TT4N
 - **Opensource**: NO
 
