@@ -65,8 +65,7 @@ I hope it helps others…
 
 ### `coronawarner`
 
-- https://www.youtube.com/watch?v=r3TFkT4Zmgg
-- Mentioned in above link, yet to be developed
+- https://www.linkedin.com/posts/geodotech_corowarner-hackcorona-coronathontaesrkiye-activity-6648915397267476480-TT4N
 
 ## China
 ### `Alipay` 
