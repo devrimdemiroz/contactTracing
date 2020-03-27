@@ -107,8 +107,11 @@ Scroll down for details
 ***
 
 ## Taiwan
-### 
+### ``
 ***
+[Trends](https://devrimdemiroz.github.io/contactTracing/trends.html)
 
-[Trends](trends.html)
+<div >
+    <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2152_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"geoHealthApp","geo":"","time":"now 7-d"},{"keyword":"tracetogether","geo":"","time":"now 7-d"},{"keyword":"hamagen","geo":"","time":"now 7-d"},{"keyword":"diAry app","geo":"","time":"now 7-d"},{"keyword":"safepaths","geo":"","time":"now 7-d"}],"category":0,"property":""}, {"exploreQuery":"date=now%207-d&q=geoHealthApp,tracetogether,hamagen,diAry%20app,safepaths","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+</div>
 
