@@ -26,20 +26,20 @@ Scroll down for details
 ### `tracetogether`
 
 - <https://www.tracetogether.gov.sg/>
-- **Opensource**: Announced to be opensource but when? Related news: https://str.sg/Jfup
+- **Opensource**: Announced to be opensource but when? Related news: <https://str.sg/Jfup>
 - Almost the most pouplar, 735K users
 - Bluetooth based, no location information collected. As stated in their official site “The app doesn't identify “where” the exposure to COVID-19 cases may have occurred. It only seeks to establish “who” else might have been exposed to the virus.”
-- A technical look: https://medium.com/@meshead/tracetogether-a-technical-look-e48360d4a4a9
-- Under-the-hood: https://medium.com/@frankvolkel/tracetogether-under-the-hood-7d5e509aeb5d
+- A technical look: <https://medium.com/@meshead/tracetogether-a-technical-look-e48360d4a4a9>
+- Under-the-hood: <https://medium.com/@frankvolkel/tracetogether-under-the-hood-7d5e509aeb5d>
 ***
 
 ## Israel 
 ### `Hamagen (The Shield)`
 
-- https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/
+- <https://govextra.gov.il/ministry-of-health/hamagen-app/download-en/>
 - **Opensource**: https://github.com/MohGovIL/hamagen-react-native
 - Israel's Ministry of Health's COVID-19 Exposure Prevention App 
-- **Architecture**: https://proferopublic.s3-eu-west-1.amazonaws.com/5f72cff6-0fb5-4517-9941-99331819b5a0/profero_infographic_01_en.jpg
+- **Architecture**: <https://proferopublic.s3-eu-west-1.amazonaws.com/5f72cff6-0fb5-4517-9941-99331819b5a0/profero_infographic_01_en.jpg>
 - React-native based Android and IOS clients , .ts typescript mostly
 - Location and wifi based
 ***
@@ -48,15 +48,15 @@ Scroll down for details
 ## USA
 ### `safepaths`
 
-- http://safepaths.mit.edu/ 
-- **Opensource**: https://github.com/tripleblindmarket/
+- <http://safepaths.mit.edu/> 
+- **Opensource**: <https://github.com/tripleblindmarket/>
 - Based on Private Kit by MIT, core code is ready but still in early stages
 - React-native based Android and IOS clients, .js javascript mostly
 - Location and bluetooth based
 
 ### `covid-watch`
 
-- https://www.covid-watch.org/collaborate.html
+- <https://www.covid-watch.org/collaborate.html>
 - Notihng developed so far, in organization/establishment phase
 ***
 
@@ -65,7 +65,7 @@ Scroll down for details
 ## Italy 
 ### `diAry`
 
-- https://covid19app.uniurb.it/
+- <https://covid19app.uniurb.it/>
 - **Opensource**: Announced to be opensource by April'20
 - Additional feature worth to mention is reward system
 ***
@@ -73,25 +73,25 @@ Scroll down for details
 
 ## Germany 
 ### `geoHealthApp`
-- https://www.geohealthapp.de/
+- <https://www.geohealthapp.de/>
 - **Opensource**: NO
 ***
 
 
 ## Czech
 ### `Smart quarantine`
-- https://medium.com/@pabu01/covid19cz-update-bb7e12e71d9e
+- <https://medium.com/@pabu01/covid19cz-update-bb7e12e71d9e>
 - **Opensource**: NO
 - Based on Telco data
 ***
 
 ## Turkey
 ### `coronapp`
-- https://coronapp.tech/
+- <https://coronapp.tech/>
 - **Opensource**: NO
 
 ### `corowarner`
-- https://www.linkedin.com/posts/geodotech_corowarner-hackcorona-coronathontaesrkiye-activity-6648915397267476480-TT4N
+- <https://www.linkedin.com/posts/geodotech_corowarner-hackcorona-coronathontaesrkiye-activity-6648915397267476480-TT4N>
 - **Opensource**: NO
 ***
 
