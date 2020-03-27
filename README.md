@@ -25,7 +25,7 @@ Scroll down for details
 ## Singapore
 ### `tracetogether`
 
-- https://www.tracetogether.gov.sg/ 
+- (https://www.tracetogether.gov.sg/) 
 - **Opensource**: Announced to be opensource but when? Related news: https://str.sg/Jfup
 - Almost the most pouplar, 735K users
 - Bluetooth based, no location information collected. As stated in their official site “The app doesn't identify “where” the exposure to COVID-19 cases may have occurred. It only seeks to establish “who” else might have been exposed to the virus.”
