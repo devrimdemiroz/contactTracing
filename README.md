@@ -12,6 +12,8 @@ I hope it helps others…
 - **Opensource**: Announced to be opensource but when? Related news: https://str.sg/Jfup
 - Almost the most pouplar, 735K users
 - Bluetooth based, no location information collected. As stated in their official site “The app doesn't identify “where” the exposure to COVID-19 cases may have occurred. It only seeks to establish “who” else might have been exposed to the virus.”
+- A technical look: https://medium.com/@meshead/tracetogether-a-technical-look-e48360d4a4a9
+- Under-the-hood: https://medium.com/@frankvolkel/tracetogether-under-the-hood-7d5e509aeb5d
 
 ## Israel 
 ### `Hamagen (The Shield)`
@@ -59,13 +61,10 @@ I hope it helps others…
 -https://coronapp.tech/
 - **Opensource**: NO
 
-### `Guvendekal`
-- https://www.youtube.com/watch?v=r3TFkT4Zmgg
-- Mentioned in above link, yet to be developed
-
 ### `coronawarner`
-
 - https://www.linkedin.com/posts/geodotech_corowarner-hackcorona-coronathontaesrkiye-activity-6648915397267476480-TT4N
+- **Opensource**: NO
+
 
 ## China
 ### `Alipay` 
