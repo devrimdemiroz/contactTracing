@@ -58,7 +58,7 @@ I hope it helps others…
 
 ## Turkey
 ### `coronapp`
--https://coronapp.tech/
+- https://coronapp.tech/
 - **Opensource**: NO
 
 ### `coronawarner`
